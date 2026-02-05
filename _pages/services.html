@@ -5,8 +5,29 @@ permalink: /services/
 author_profile: true
 ---
 
+<style>
+/* Hide the default page title ("Services") only on this page */
+.page__title {
+  display: none;
+}
+
+/* Nice blue section titles */
+.section-title {
+  color: #1f6feb;       /* clean blue */
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Divider between the two parts */
+.section-divider {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  margin: 2rem 0 1.6rem;
+}
+</style>
+
 {% capture services_md %}
-## Academic Service
+<h2 class="section-title">Academic Service</h2>
 
 ### Conference Reviewing
 - **Co-reviewer**: ICSE (2022–2025), ESEC/FSE (2022–2024), ASE (2022–2024)  
@@ -17,7 +38,9 @@ author_profile: true
 - **Reviewer**: ACM Computing Surveys  
 - **Reviewer**: Automated Software Engineering (ASE Journal)
 
-## Student & Leadership Service
+<hr class="section-divider" />
+
+<h2 class="section-title">Student &amp; Leadership Service</h2>
 
 - **Chief Class Monitor**, Institute of Software, Peking University, 2025–2026  
   - Class monitor for the development environment track (as part of the role)
