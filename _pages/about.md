@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Guoqing Wang is a fourth-year Ph.D. student at **[CS@Peking University](https://cs.pku.edu.cn/)**, co-advised by **Prof. [Dan Hao](https://sites.google.com/view/danhao/)** and **Prof. [Zeyu Sun](https://zysszy.github.io/)**. He received his bachelor’s degree from Harbin Institute of Technology (HIT) in 2022. 
+Guoqing Wang is a fifth-year Ph.D. student at **[CS@Peking University](https://cs.pku.edu.cn/)**, co-advised by **Prof. [Dan Hao](https://sites.google.com/view/danhao/)** and **Prof. [Zeyu Sun](https://zysszy.github.io/)**. He is currently conducting research on **post-training for LLM foundation models at DeepSeek**. He received his bachelor’s degree from Harbin Institute of Technology (HIT) in 2022.
 
 His research resides at the intersection of **AI for Software Engineering (AI4SE)** and **Trustworthy/Truthful AI**. He is dedicated to building reliable and controllable Large Language Model (LLM) systems, with a focus on enhancing their performance in software development and ensuring their factual integrity in knowledge-intensive tasks.
 
@@ -32,4 +32,4 @@ Focuses on the reliability and factual integrity of LLMs, especially in RAG (Ret
 
 ---
 
-You can find my full list of publications on **[Google Scholar](https://scholar.google.com/citations?user=m-Y363wAAAAJ&hl=en&oi=ao)**. For more details about my experience, please refer to my **[CV]** or contact me via email.
+You can find my full list of publications on **[Google Scholar](https://scholar.google.com/citations?user=m-Y363wAAAAJ&hl=en&oi=ao)**. For more details about my experience, please contact me via [email](mailto:guoqingwang@stu.pku.edu.cn).
